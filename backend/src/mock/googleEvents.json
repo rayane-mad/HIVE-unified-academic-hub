@@ -1,0 +1,9 @@
+[
+  {
+    "id": "google-301",
+    "summary": "Math Exam",
+    "start": { "dateTime": "2025-12-12T09:00:00Z" },
+    "end": { "dateTime": "2025-12-12T11:00:00Z" },
+    "description": "Final exam in Hall B"
+  }
+]

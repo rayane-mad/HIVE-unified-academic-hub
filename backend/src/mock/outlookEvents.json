@@ -1,0 +1,9 @@
+[
+  {
+    "id": "outlook-201",
+    "subject": "Group Meeting: Final Project",
+    "start": { "dateTime": "2025-12-08T15:00:00Z" },
+    "end": { "dateTime": "2025-12-08T16:30:00Z" },
+    "bodyPreview": "Discuss project milestones"
+  }
+]

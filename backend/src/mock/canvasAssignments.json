@@ -1,0 +1,20 @@
+[
+  {
+    "id": 101,
+    "name": "AI Final Project",
+    "due_at": "2025-12-15T23:59:00Z",
+    "course_code": "CS 401",
+    "html_url": "https://canvas.example.com/assignments/101",
+    "description": "Build a neural network from scratch",
+    "has_submitted_submissions": false
+  },
+  {
+    "id": 102,
+    "name": "Database Design Quiz",
+    "due_at": "2025-12-10T14:00:00Z",
+    "course_code": "CS 301",
+    "html_url": "https://canvas.example.com/assignments/102",
+    "description": "ERD and normalization concepts",
+    "has_submitted_submissions": true
+  }
+]
